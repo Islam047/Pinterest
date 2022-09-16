@@ -8,10 +8,8 @@ SQL database Hive was used in order to save user profile data
 
 
 <p align="left">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" />
 </a>  
+<a href="https://drive.google.com/file/d/1soyAg_tf6zTb0xiCsMKDxZjH7L9ZQpED/view?usp=sharing" target="blank"><img align="center" src="https://static.tildacdn.com/tild6536-3465-4061-b030-656164346166/arrow_down.png" alt="islam_shamurov" height="100" width="100" /></a>
 
   
 
